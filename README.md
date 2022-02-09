@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @Vojtysek
-- 👀 I’m interested in coding web application or whole web sites
-- 🌱 I’m workin for local hospital as Fullstack dev
-
-<!---
-Vojtysek/Vojtysek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Vojtysek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vojtysek&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vojtysek&langs_count=8&show_icons=true&theme=radical)
